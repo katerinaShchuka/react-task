@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bof-frontend-project-basic/static/css/main.361e78d6.css",
+    "main.js": "/bof-frontend-project-basic/static/js/main.e89b0be7.js",
+    "static/js/787.fdc1d09e.chunk.js": "/bof-frontend-project-basic/static/js/787.fdc1d09e.chunk.js",
+    "index.html": "/bof-frontend-project-basic/index.html",
+    "main.361e78d6.css.map": "/bof-frontend-project-basic/static/css/main.361e78d6.css.map",
+    "main.e89b0be7.js.map": "/bof-frontend-project-basic/static/js/main.e89b0be7.js.map",
+    "787.fdc1d09e.chunk.js.map": "/bof-frontend-project-basic/static/js/787.fdc1d09e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.361e78d6.css",
+    "static/js/main.e89b0be7.js"
+  ]
+}

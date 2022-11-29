@@ -1,0 +1,30 @@
+#title {
+
+background-color: rgb(95, 104, 197);
+    color: white;
+    
+}
+
+table {
+    width: 100%;
+    
+}
+
+a {
+    color:rgb(95, 104, 197);
+}
+ a:hover {
+    color: blue;
+ }
+
+ #flag {
+    transform: scale(2);
+line-height: 9;
+ }
+
+ #titleFlag {
+
+     padding-left: 3em;
+     padding-right: 3em;
+ }
+
